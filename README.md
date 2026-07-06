@@ -1,38 +1,39 @@
-<img src="assets/banner-beam.svg" width="100%" />
+<h3 align="center">17 years in the field — from syntax errors to systems-level vision</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&lines=17+years+of+chasing+harder+problems;React+%2B+Next.js+%2B+Nuxt.js+%2B+React+Native;Go+%2B+Rust+%2B+C%23+%2F+.NET;Docker+%2B+Kubernetes;AI+Memory+%26+Retrieval+Systems;Data+Engineering+%26+Pipelines" alt="Typing SVG" />
+  React · Next.js · Nuxt.js · React Native · Go · Rust · C# / .NET · Docker · Kubernetes · AI Memory Engineering · Data Engineering
 </p>
 
 ---
 
-### The View From Here
+### About
 
-Seventeen years ago it started at the bottom of the climb , semicolons, syntax
-errors, the slow work of learning how machines think. Every framework, outage,
-and 2am deploy was another foothold. Somewhere along the way the climb changed
-shape: less about the next language, more about seeing the whole mountain ,
-how a system breathes end to end, from a button tap on a phone to a byte
-settling in a database three continents away.
+Seventeen years ago it started at the bottom of the climb — semicolons,
+syntax errors, the slow work of learning how machines think. Every
+framework, outage, and 2am deploy was another foothold. Somewhere along the
+way the climb changed shape: less about the next language, more about
+seeing the whole mountain — how a system breathes end to end, from a button
+tap on a phone to a byte settling in a database three continents away.
 
 These days the work spans the full range of that view: shipping products
-across every OS with React Native, architecting backend systems in Go, Rust,
-and C#/.NET, running it all in Docker and Kubernetes, and , the newest ridge
-to climb , building the **memory layer for AI systems**, the part that lets a
-model actually hold onto what it's learned instead of starting over every time.
+across every OS with React Native, architecting backend systems in Go,
+Rust, and C#/.NET, running it all in Docker and Kubernetes, and — the
+newest ridge to climb — building the memory layer for AI systems, the part
+that lets a model actually hold onto what it's learned instead of starting
+over every time.
 
 ---
 
 ### What I Do
 
-- 🏔️ **17 years in the field** , from "hello world" to designing systems from the top down
-- 📱 **React Native, cross-platform** , iOS, Android, and beyond, one codebase
-- 🧠 **AI memory engineering** , retrieval, context persistence, and long-term memory for AI systems
-- 🌐 **Full-stack web** , React, Next.js, Nuxt.js, Node.js
-- 🛠️ **Backend & systems** , C# / .NET, Go, Rust
-- 🐳 **Infrastructure** , Docker, Kubernetes
-- 📊 **Data engineering** , pipelines that move and shape data at scale
-- 🌍 **Internationalization** , RTL layouts, multi-locale routing, real-world edge cases
+- 🏔️ 17 years in the field — from "hello world" to designing systems from the top down
+- 📱 React Native, cross-platform — iOS, Android, and beyond, one codebase
+- 🧠 AI memory engineering — retrieval, context persistence, long-term memory for AI systems
+- 🌐 Full-stack web — React, Next.js, Nuxt.js, Node.js
+- 🛠️ Backend & systems — C# / .NET, Go, Rust
+- 🐳 Infrastructure — Docker, Kubernetes
+- 📊 Data engineering — pipelines that move and shape data at scale
+- 🌍 Internationalization — RTL layouts, multi-locale routing, real-world edge cases
 
 ---
 
@@ -97,15 +98,6 @@ model actually hold onto what it's learned instead of starting over every time.
 
 ---
 
-### GitHub Stats
-
-**Contribution activity graph**
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velosovy&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
-
 ### Connect
 
 <p align="left">
@@ -119,9 +111,3 @@ model actually hold onto what it's learned instead of starting over every time.
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Velosovy&label=Profile%20Views&color=22D3EE&style=flat" alt="profile views" />
-</p>
-
-<img src="assets/footer-beam.svg" width="100%" />
