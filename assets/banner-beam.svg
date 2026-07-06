@@ -1,0 +1,55 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="arcGradA" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="arcGradB" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="arcBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="#000000"/>
+  <rect width="1200" height="220" fill="url(#grid)"/>
+
+  <path d="M 20 210 Q 600 -60 1180 210" fill="none" stroke="url(#arcGradA)" stroke-width="3" filter="url(#arcBlur)" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.9;0.9;0" keyTimes="0;0.15;0.45;0.65;1" dur="7s" repeatCount="indefinite" begin="0s"/>
+  </path>
+
+  <path d="M 160 220 Q 600 40 1040 220" fill="none" stroke="url(#arcGradB)" stroke-width="2.5" filter="url(#arcBlur)" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.8;0.8;0" keyTimes="0;0.1;0.4;0.6;1" dur="7s" repeatCount="indefinite" begin="2.3s"/>
+  </path>
+
+  <path d="M 300 220 Q 600 100 900 220" fill="none" stroke="#ffffff" stroke-width="1" filter="url(#arcBlur)" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.6;0.6;0" keyTimes="0;0.2;0.5;0.55;1" dur="7s" repeatCount="indefinite" begin="4.6s"/>
+  </path>
+
+  <circle cx="600" cy="110" r="170" fill="url(#glow)">
+    <animate attributeName="r" values="150;185;150" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="100" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" font-weight="700" fill="#ffffff">
+    Hi, I'm Lisa
+  </text>
+  <text x="600" y="140" text-anchor="middle" font-family="Fira Code, monospace" font-size="17" fill="#a1a1aa">
+    17 years in the field &#8226; still climbing
+  </text>
+</svg>
