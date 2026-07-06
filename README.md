@@ -8,31 +8,31 @@
 
 ### The View From Here
 
-Seventeen years ago it started at the bottom of the climb — semicolons, syntax
+Seventeen years ago it started at the bottom of the climb , semicolons, syntax
 errors, the slow work of learning how machines think. Every framework, outage,
 and 2am deploy was another foothold. Somewhere along the way the climb changed
-shape: less about the next language, more about seeing the whole mountain —
+shape: less about the next language, more about seeing the whole mountain ,
 how a system breathes end to end, from a button tap on a phone to a byte
 settling in a database three continents away.
 
 These days the work spans the full range of that view: shipping products
 across every OS with React Native, architecting backend systems in Go, Rust,
-and C#/.NET, running it all in Docker and Kubernetes, and — the newest ridge
-to climb — building the **memory layer for AI systems**, the part that lets a
+and C#/.NET, running it all in Docker and Kubernetes, and , the newest ridge
+to climb , building the **memory layer for AI systems**, the part that lets a
 model actually hold onto what it's learned instead of starting over every time.
 
 ---
 
 ### What I Do
 
-- 🏔️ **17 years in the field** — from "hello world" to designing systems from the top down
-- 📱 **React Native, cross-platform** — iOS, Android, and beyond, one codebase
-- 🧠 **AI memory engineering** — retrieval, context persistence, and long-term memory for AI systems
-- 🌐 **Full-stack web** — React, Next.js, Nuxt.js, Node.js
-- 🛠️ **Backend & systems** — C# / .NET, Go, Rust
-- 🐳 **Infrastructure** — Docker, Kubernetes
-- 📊 **Data engineering** — pipelines that move and shape data at scale
-- 🌍 **Internationalization** — RTL layouts, multi-locale routing, real-world edge cases
+- 🏔️ **17 years in the field** , from "hello world" to designing systems from the top down
+- 📱 **React Native, cross-platform** , iOS, Android, and beyond, one codebase
+- 🧠 **AI memory engineering** , retrieval, context persistence, and long-term memory for AI systems
+- 🌐 **Full-stack web** , React, Next.js, Nuxt.js, Node.js
+- 🛠️ **Backend & systems** , C# / .NET, Go, Rust
+- 🐳 **Infrastructure** , Docker, Kubernetes
+- 📊 **Data engineering** , pipelines that move and shape data at scale
+- 🌍 **Internationalization** , RTL layouts, multi-locale routing, real-world edge cases
 
 ---
 
@@ -99,28 +99,9 @@ model actually hold onto what it's learned instead of starting over every time.
 
 ### GitHub Stats
 
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Velosovy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velosovy&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velosovy&theme=radical&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Velosovy&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
 **Contribution activity graph**
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velosovy&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
-**Contribution snake** (needs a one-time GitHub Action — see setup guide)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Velosovy/Velosovy/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
