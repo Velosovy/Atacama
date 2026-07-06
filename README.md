@@ -99,29 +99,29 @@ model actually hold onto what it's learned instead of starting over every time.
 
 ### GitHub Stats
 
-> Replace `YOUR_USERNAME` everywhere below with your real GitHub handle. If a box still shows a broken image after that, the shared free widget server is rate-limited — self-host it (deploy button on the widget's repo) for a permanent fix.
+> Replace `Velosovy` everywhere below with your real GitHub handle. If a box still shows a broken image after that, the shared free widget server is rate-limited — self-host it (deploy button on the widget's repo) for a permanent fix.
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Velosovy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velosovy&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Velosovy&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Velosovy&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 **Contribution activity graph**
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Velosovy&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
 **Contribution snake** (needs a one-time GitHub Action — see setup guide)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Velosovy/Velosovy/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ model actually hold onto what it's learned instead of starting over every time.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=22D3EE&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Velosovy&label=Profile%20Views&color=22D3EE&style=flat" alt="profile views" />
 </p>
 
 <img src="assets/footer-beam.svg" width="100%" />
