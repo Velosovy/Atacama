@@ -1,0 +1,42 @@
+<svg width="1200" height="90" viewBox="0 0 1200 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="gridFooter" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="beamGradientFooter" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softBlurFooter" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="90" fill="#000000"/>
+  <rect width="1200" height="90" fill="url(#gridFooter)"/>
+
+  <rect x="-400" y="0" width="400" height="90" fill="url(#beamGradientFooter)" filter="url(#softBlurFooter)">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="2000 0"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-400" y="0" width="400" height="90" fill="url(#beamGradientFooter)" opacity="0.9">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 0"
+      to="2000 0"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
