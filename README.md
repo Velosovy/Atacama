@@ -1,3 +1,5 @@
+<img src="assets/banner-beam.svg" width="100%" />
+
 <h3 align="center">17 years in the field — from syntax errors to systems-level vision</h3>
 
 <p align="center">
@@ -111,3 +113,5 @@ over every time.
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
+
+<img src="assets/footer-beam.svg" width="100%" />
