@@ -1,25 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=200&section=header&text=Hi,%20I'm%20Lisa%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<h3 align="center">Full-Stack Developer — React, Next.js, Nuxt, .NET, Rust & Data Engineering</h3>
+<img src="assets/banner-beam.svg" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=React+%2B+Next.js+%2B+Nuxt.js;Node.js+Ecosystem;C%23+%2F+.NET+%2F+Rust;Data+Engineering+%26+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=React+%2B+Next.js+%2B+Nuxt.js;Node.js+%2B+Go+%2B+Rust;C%23+%2F+.NET;Docker+%2B+Kubernetes;Data+Engineering+%26+Pipelines" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 🛒 Building a **headless e-commerce storefront** with Next.js — product schema, checkout auth, analytics, the works
 - ⚙️ Comfortable across the **Node.js ecosystem** — React, Next.js, Nuxt.js
-- 🧩 Also work with **C# / .NET** for backend and services
+- 🧩 Also work with **C# / .NET**, **Go**, and **Rust** for backend and systems work
+- 🐳 Ship and run services with **Docker** and **Kubernetes**
 - 📊 Into **data engineering** — pipelines, ETL, and working with structured data at scale
 - 🌍 Deep into **internationalization** — `next-intl`, RTL layouts, multi-locale routing
 - ⚡ Obsessed with **LCP, CLS, and Core Web Vitals** — Suspense boundaries, skeleton states, the small stuff that matters
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend / Node ecosystem**
 <p align="left">
@@ -31,11 +30,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-**Backend**
+**Backend / Systems**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+**Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 **Data Engineering**
@@ -58,9 +64,9 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-> ⚠️ If these boxes show broken image icons: 99% of the time it's either `YOUR_USERNAME` not swapped for your real handle below, or the free shared widget server is rate-limited (it's a public service, this happens often). See the fix notes after the guide below.
+> Replace `YOUR_USERNAME` everywhere below with your real GitHub handle. If a box still shows a broken image after that, the shared free widget server is rate-limited — self-host it (deploy button on the widget's repo) for a permanent fix.
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -80,17 +86,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-**Snake eating my own contribution graph** 🐍 (needs a one-time GitHub Action setup — see guide below)
+**Contribution snake** (needs a one-time GitHub Action — see setup guide)
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
 ---
-### 📫 Connect With Me
+
+### Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -104,10 +107,8 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=a855f7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=22D3EE&style=flat" alt="profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=120&section=footer" width="100%" />
+<img src="assets/footer-beam.svg" width="100%" />
