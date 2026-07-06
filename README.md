@@ -99,7 +99,6 @@ model actually hold onto what it's learned instead of starting over every time.
 
 ### GitHub Stats
 
-> Replace `Velosovy` everywhere below with your real GitHub handle. If a box still shows a broken image after that, the shared free widget server is rate-limited — self-host it (deploy button on the widget's repo) for a permanent fix.
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Velosovy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
